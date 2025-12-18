@@ -41,13 +41,13 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 a.   KVL:
 
-"C:\Users\cseha\OneDrive\Pictures\Screenshots\Screenshot (10).png"
-
+<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/2035b5c6-2d9b-4d37-96a6-60996105d9d6" />
 
 CIRCUIT DIAGRAM:
 b.  KCL:
 
-"C:\Users\cseha\OneDrive\Pictures\Screenshots\Screenshot (18).png"
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/9a34238d-9d84-4bfc-adcc-ee3a8de62079" />
+
 
  
 
@@ -55,14 +55,16 @@ Calculation:
 
 a.   KVL:
 
-"C:\Users\cseha\OneDrive\Documents\bee\exp1.jpg"
+![exp1](https://github.com/user-attachments/assets/d7c287cb-63c1-4039-917a-0f14897e11c6)
+
 
  
 
 
 b.  KCL:
 
-"C:\Users\cseha\OneDrive\Documents\bee\exp1.2.jpg"
+![exp1 2](https://github.com/user-attachments/assets/5c8409a7-959f-421a-ac2b-d761513cb4cc)
+
 
 
 
@@ -71,13 +73,15 @@ Tabulation:
 
 a.   KVL:
 
- "C:\Users\cseha\OneDrive\Documents\bee\exp1.4.jpg"
+![exp1 4](https://github.com/user-attachments/assets/ef5b3be7-b7b6-4fd7-9388-51e54941f2bc)
+
  
 
 
 b.  KCL:
 
-"C:\Users\cseha\OneDrive\Documents\bee\exp1.3.jpg"
+![exp1 3](https://github.com/user-attachments/assets/edeb272f-d03f-4ae0-9ca9-9929b93842e2)
+
 
 
 
